@@ -5,5 +5,5 @@ def solve(n):
      print('perfect')
    else:
      print('not perfect')
-n = int(input("enter a number : "))
+n = int(input("check a number to be sqrt  : "))
 solve(n)
